@@ -336,6 +336,10 @@ i:hover {
     color: #fff;
   }
 
+  h1 {
+      font-size: xx-large;
+  }
+
   .hamburger {
     display: none;
   }
