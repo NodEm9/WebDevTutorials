@@ -93,6 +93,7 @@ a:hover {
   height: 3px;
   background: rgb(5, 5, 5);
   margin: 8px;
+  transition: 0.4s;
 }
 
 .open .bar1 {
